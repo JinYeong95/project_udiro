@@ -37,7 +37,7 @@
 * 검색기능 구현을 통한 원할한 정보 취득 가능
 <br>
 
-## 6. Admin
+## 5. Admin
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/571f9985-dbc5-486c-8b79-01774806a16e"/>
 </div>
@@ -52,7 +52,7 @@
 * UDRIO ADMIN의 CRUD를 통해 문화,축제 PAGE 관리
 <br>
 
-## 5. STACKS
+## 6. STACKS
 <div align="center">
   <img src="https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
