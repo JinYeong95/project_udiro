@@ -46,14 +46,14 @@
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/571f9985-dbc5-486c-8b79-01774806a16e"/>
 
 
-UDRIO ADMIN의 CRUD를 통해 HOMEPAGE의 USER 관리<br>
+Udiro ADMIN의 CRUD를 통해 HOMEPAGE의 USER 관리<br>
 <br>
 </div>
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/a9fe90d2-29f5-490f-9b63-7a3019bae6a3"/>
 
 
-UDRIO ADMIN의 CRUD를 통해 문화,축제 PAGE 관리<br>
+Udiro ADMIN의 CRUD를 통해 문화,축제 PAGE 관리<br>
 <br>
 </div>
 
