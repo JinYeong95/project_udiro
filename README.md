@@ -1,9 +1,9 @@
-## 1. UDRIO
+## 1. Udiro
 <div align="center">
   <img src="https://github.com/xoos0420/udrio/assets/131944211/5adc0991-a825-427f-8ba8-7582563f1284">
 </div>
 
-* UDRIO 팀
+* Udiro 팀
 * 개발 기간 : 2022.05 ~ 2022.06
 * 서울시 열린데이터광장 공공데이터 활용 앱/웹을 위한 프로젝트
   * 인구 분포, 실시간 업데이트, 지역별 인원파악 등
