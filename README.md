@@ -10,7 +10,7 @@
   * 서울 혼잡도 지역 현황 및 문화정보 제공
 
 ## 2. HOME_PAGE
-* [UDRIO HOMEPAGE](https://port-0-udiro-client-dcse2bli92yw8t.sel4.cloudtype.app)
+* [Udiro HOMEPAGE](https://port-0-udiro-client-dcse2bli92yw8t.sel4.cloudtype.app)
 
 
 ## 3. Information Architecture
