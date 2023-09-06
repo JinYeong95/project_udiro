@@ -12,6 +12,7 @@
 ## 2. HOME_PAGE
 * [UDRIO HOMEPAGE](https://port-0-udiro-client-dcse2bli92yw8t.sel4.cloudtype.app)
 
+
 ## 3. Information Architecture
 <div align="center">
   <img width="80%" height="60%" alt="UDiro logo" src="https://github.com/xoos0420/dmz/assets/131944211/ba987eb8-e31e-4b61-8b21-8cdc50a6a833"/>
@@ -20,37 +21,42 @@
 ## 4. Main Service
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/3fc258f2-e9ed-4dc6-904d-1ed890642c85"/>
-</div>
 
-* 서울시 실시간 도시데이터 API에서 데이터 파싱 후 값을 저장
-* 서울시 혼잡도 지역을 기반으로 움직이는 원을 생성
-* 화장실 및 주차장 등의 도시 편의시설 표시
-* 검색기능 구현을 통한 원할한 정보 취득 가능
 <br>
+ 서울시 실시간 도시데이터 API에서 데이터 파싱 후 값을 저장<br>
+ 서울시 혼잡도 지역을 기반으로 움직이는 원을 생성<br>
+ 화장실 및 주차장 등의 도시 편의시설 표시<br>
+ 검색기능 구현을 통한 원할한 정보 취득 가능<br>
+<br>
+</div>
 
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/d4f33e97-38df-4141-87a4-c8059853e460"/>
+
+<br>
+서울시 공공데이터의 문화, 행사, 축제 데이터 API를 이용하여 DB에 저장<br>
+저장된 DB을 통해 해당 주소로 데이터를 html, css, js를 통해 웹사이트 구조와 함께 반환<br>
+검색기능 구현을 통한 원할한 정보 취득 가능<br>
+<br>
 </div>
 
-* 서울시 공공데이터의 문화, 행사, 축제 데이터 API를 이용하여 DB에 저장
-* 저장된 DB을 통해 해당 주소로 데이터를 html, css, js를 통해 웹사이트 구조와 함께 반환
-* 검색기능 구현을 통한 원할한 정보 취득 가능
-<br>
 
 ## 5. Admin
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/571f9985-dbc5-486c-8b79-01774806a16e"/>
-</div>
 
-* UDRIO ADMIN의 CRUD를 통해 HOMEPAGE의 USER 관리
+
+UDRIO ADMIN의 CRUD를 통해 HOMEPAGE의 USER 관리<br>
 <br>
-
+</div>
 <div align="center">
   <img width="80%" height="60%" src="https://github.com/xoos0420/udrio/assets/131944211/a9fe90d2-29f5-490f-9b63-7a3019bae6a3"/>
+
+
+UDRIO ADMIN의 CRUD를 통해 문화,축제 PAGE 관리<br>
+<br>
 </div>
 
-* UDRIO ADMIN의 CRUD를 통해 문화,축제 PAGE 관리
-<br>
 
 ## 6. STACKS
 <div align="center">
